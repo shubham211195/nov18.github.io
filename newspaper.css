@@ -1,0 +1,194 @@
+body{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.left{
+    width: 250px;
+    height: 150px;
+}
+.border{
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+ .mid{
+    width: 500px;
+    height: 150px;
+    background-color: #ffffff;
+    }
+.mid >h1{
+font-family: 'Monoton', cursive;
+    font-size: 80px;
+    margin-top: -15px;
+}
+div >h1{
+    font-size: 50px;
+    margin: 0;
+}
+h6{
+    margin: 0;
+}
+div >hr{
+    margin-left: 450px;
+    margin-right: 450px;
+}
+div >h2{
+    font-size: 40px ;
+    margin: 0;
+}
+.right{
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    pad: 10px;
+}
+.left-section{
+    width: 900px;
+}
+.container2{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#img1{
+    width: 900px;
+    height: 500px;
+}
+.super-left >h3 ,h4{
+    margin: 0px;
+}
+.super-left{
+    
+    width: 200px;
+    height: 550px;
+}
+.super-left >hr{
+    margin-left: 35px;
+    margin-right: 50px;
+}
+.super-mid{
+    
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    border-bottom: 0px;
+    border-top: 0px;
+    width: 650px;
+}
+.super-mid > h3{
+    margin: 0px;
+   font-size: 35px;
+   height: 20px;
+}
+.lefty{
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+}
+.midy{
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+}
+.righty{
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+}
+.righty2 > img{
+    width: 200px;
+    height: 200px;
+}
+.lefty2{
+      
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+}
+
+.midy2{
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+}
+.righty2{
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+}
+.right1 > img{
+    width: 150px;
+    height: 150px;
+}
+.container3{
+      width: 350px;
+   border: 1px solid black;
+   border-top: 0px;
+   border-bottom: 0px;
+   
+}
+
+.right-section{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+#size{
+    font-size: 20px;
+}
+.left1{
+    padding: 5px;
+    width: 140px;
+    height: 500px;
+}
+.right1{
+    padding: 5px;
+    width: 140px;
+    height: 500px;
+}
+.final-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container2{
+    width: 70%;
+}
+.container3{
+    width: 30%;
+}
+
+.rrl-section{
+    width: 150px;
+    height: 350px;
+
+}
+.rrr-section{
+    width: 150px;
+    height: 350px;
+}
+.bottom-left{
+    width: 150px;
+    height: 250px;
+}
+.bottom-right{
+    width: 150px;
+    height: 250px;
+}
